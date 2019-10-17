@@ -1,4 +1,4 @@
-Sass Boilerplate for generic CSS/HTML
+Sass Boilerplate for generic CSS/HTML   mod2
 =============
 Done by akella with kind help of Coderiver guys.
 
